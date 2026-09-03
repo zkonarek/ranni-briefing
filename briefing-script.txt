@@ -1,239 +1,39 @@
-Dobré ráno.
+Dobré ráno. Je čtvrtek, třetího září, a toto je váš ranní briefing. Během patnácti minut probereme novinky od Rohde & Schwarz a pak se podíváme na akciové trhy. Pojďme na to.
 
-Tady je ranní briefing na středu druhého září dva tisíce dvacet šest.
+Začneme firmou Rohde & Schwarz. Německý výrobce měřicí a komunikační techniky měl i tento týden nabitý program.
 
-Nejdřív novinky z Rohde a Schwarz v Česku, v Německu i v zámoří.
+Včera, druhého září, oznámila firma spolu s americkým Qualcommem významný technický krok ve světě mobilních sítí páté generace. Obě společnosti poprvé úspěšně ověřily takzvaný konformitní testovací případ pro funkci s názvem SSSG. Nebojte se té zkratky, jde jednoduše o mechanismus, který šetří energii v telefonech a dalších zařízeních připojených k síti páté generace. Funkce pomáhá zařízení chytřeji sledovat řídicí kanál sítě, takže telefon zbytečně nespotřebovává baterii neustálým nasloucháním signálu. Test proběhl na platformě Rohde & Schwarz s označením TS-PCT, která využívá takzvaný jednoboxový signalizační tester CMX500, v kombinaci s modemem Qualcomm řady X105. Obě firmy jsou první na světě, které tento konkrétní test úspěšně dokončily. Navíc při zkouškách objevily místa, kde lze vylepšit samotnou testovací normu, a podaly proto návrh na její úpravu mezinárodnímu standardizačnímu sdružení. Jde o pěkný příklad toho, jak firma z Mnichova pomáhá formovat budoucí telekomunikační standardy, nejen je testovat.
 
-Pak akciové trhy. Praha, Frankfurt a Wall Street.
+Zůstaňme ještě u Německa. Dnes a zítra, tedy třetího a čtvrtého září, probíhá v Hamburku veletrh lodní techniky SMM. Rohde & Schwarz se ho účastní vůbec poprvé ve své historii. Firma má stánek v hale B8 a představuje tam řešení pro námořnictvo. Jde především o systém NAVICS, což je integrovaná komunikační platforma pro lodě, a dále NEMACS, tedy odolné síťové prvky pro takzvaný combat cloud, neboli propojenou bojovou infrastrukturu. Cílem je ukázat, jak mohou námořní síly lépe zvládat elektromagnetické spektrum v přeplněném a rušeném prostředí moderních konfliktů. Souběžně stále probíhá v Praze konference EMC Europe, věnovaná elektromagnetické kompatibilitě, kde firma prezentuje analýzu takzvaného tempest vyzařování a workshopy o kompatibilitě výkonové elektroniky. Tato akce v Kongresovém centru končí právě dnes.
 
-Rohde a Schwarz je soukromý mnichovský technologický koncern.
+Příští týden, konkrétně osmého září, se Rohde & Schwarz představí v Kolíně nad Rýnem na veletrhu Digital X. Půjde o první veřejné vystoupení nově sloučené divize s názvem Rohde & Schwarz Networks and Cybersecurity. Tato divize vznikla prvního července spojením firmy LANCOM a bývalé divize kybernetické bezpečnosti, sídlí ve Würselenu a povede ji spolu Constantin von Reden a obchodní ředitel Robert Mallinson. Na akci s nimi vystoupí i zástupci Deutsche Telekomu, což naznačuje, že spolupráce s velkými telekomunikačními operátory bude pro novou divizi klíčová.
 
-Patří zakladatelským rodinám a specializuje se na měřicí techniku, obranu a bezpečnost.
+O dva týdny později, od patnáctého do sedmnáctého září, se firma zapojí i do akce EWLive v estonském Tartu. Půjde o polní ukázky elektronického boje a obrany proti dronům, tedy oblasti, která je pro Rohde & Schwarz v posledních letech čím dál důležitější součástí obranného byznysu.
 
-Dnes ráno firma otevírá stánek na dvou velkých evropských veletrzích zároveň.
+Nyní k americkému byznysu firmy. Koncem srpna, přesněji dvacátého šestého, otevřela Rohde & Schwarz nový výrobní závod ve městě Frederick ve státě Maryland. Investice dosáhla čtyřiceti milionů dolarů, závod má osmdesát sedm tisíc čtverečních stop a v tuto chvíli zaměstnává zhruba sto lidí, cílem je ale více než tři sta padesát pracovních míst. Vyrábí se tam komunikační systém CERTIUM pro americký úřad pro letecký provoz, tedy FAA. Jde o součást obřího kontraktu na modernizaci amerického systému řízení letového provozu, který může mít hodnotu až čtyři a devět desetiny miliardy dolarů. Nedávno byl navíc dokončen sto čtyřicátý instalovaný systém, konkrétně ve městě Rapid City v Jižní Dakotě, čímž firma dokončila první vlnu programu dříve, než plánovala. Celý program počítá s výměnou šedesáti tří procent stávajících měděných vedení, instalací tři sta osmdesáti osmi rádiových stanovišť, sto sedmdesáti šesti hlasových přepínačů a devadesáti šesti věží se systémem sledování povrchu. Hotovo má být do konce roku dva tisíce dvacet osm.
 
-V Hamburku dnes začíná námořní veletrh SMM.
+A jak se daří mateřskému závodu ve Vimperku? Připomeňme, že jde o vůbec první výrobní závod firmy mimo Německo, funguje tam od roku dva tisíce jedna, kdy začínal se sto třiceti zaměstnanci v bývalém areálu Tesly Hloubětín. Letos v červnu tak závod oslavil dvacet pět let působení v Česku. Dnes tam pracuje kolem devíti set osmdesáti lidí, cílem do roku dva tisíce třicet je dvanáct set zaměstnanců. Mzdy se od července zvýšily o čtyři procenta. Pokračuje výstavba nové haly s označením M0. Investice do haly činí tři sta dvacet milionů korun, hala bude mít čtyři podlaží a dokončena má být do konce letošního roku. Závod navíc investuje do udržitelnosti, na střechách má přes tisíc šest set fotovoltaických panelů, které pokrývají zhruba desetinu spotřeby energie, a připravuje se instalace kaskády tepelných čerpadel za zhruba sto milionů korun.
 
-Rohde a Schwarz tam vystavuje vůbec poprvé.
+Na závěr firemního bloku ještě připomeňme, že prvního září firma oznámila otevření nového centra pro umělou inteligenci a strojové učení v indickém Bengalúru. Generální ředitel Christian Leicher řekl, že centrum má připravit firmu na budoucí návrh vlastních čipů a využije rostoucí indický potenciál v oblasti umělé inteligence a polovodičů.
 
-Stánek najdete v hale B osm, v sekci Naval Stage, na čísle sto dvacet dva.
+Tolik novinky od Rohde & Schwarz. Teď se přesuneme k akciovým trhům.
 
-Firma tam ukáže integrovaný komunikační systém NAVICS pro válečné lodě.
+Včerejší středeční obchodování na Wall Street přineslo úlevu po třech ztrátových dnech v řadě. Index Dow Jones přidal 0,56 procenta a uzavřel na 53 tisících 62 bodech. Širší index S&P 500 posílil o 0,46 procenta na 7 tisíc 667 bodů. Technologický Nasdaq Composite vzrostl o 0,45 procenta na 26 tisíc 218 bodů. Index strachu VIX prudce klesl, o téměř sedm procent, což ukazuje na uklidnění nervozity investorů. Pomohla tomu stabilizace výnosů amerických státních dluhopisů, které se v úterý vyšplhaly až na 4,81 procenta, tedy na nejvyšší úroveň od roku dva tisíce dvacet tři, ale ve středu částečně ustoupily.
 
-A síťovou platformu NEMACS, která propojuje posádkové i bezposádkové jednotky napříč doménami.
+Investoři se ve středu dívali i na slabší data z amerického trhu práce. Soukromý sektor podle agentury ADP vytvořil v srpnu jen třicet osm tisíc nových pracovních míst, což je nejméně od ledna a výrazně méně, než se čekalo. Naopak průmyslové objednávky v červenci vzrostly o téměř jedno procento, tedy víc, než se předpokládalo. Odpoledne pak americká centrální banka zveřejnila pravidelnou takzvanou Béžovou knihu, souhrn zpráv o stavu ekonomiky z jednotlivých regionů.
 
-Řeč bude i o odolných síťových prvcích. Routerech, přepínačích a firewallech pro kritickou námořní infrastrukturu.
+Trhu pomohla i firemní čísla. Výrobce počítačů Dell výrazně zvýšil svůj celoroční výhled tržeb díky obrovské poptávce po serverech pro umělou inteligenci, výhled zvedl o pětadvacet miliard dolarů, a akcie po výsledcích prudce rostly. Silná čísla přinesla i firma Hewlett Packard Enterprise, jejíž zisk na akcii výrazně překonal odhady analytiků. Po uzavření trhu pak reportoval čipový gigant Broadcom. Tržby vzrostly meziročně o osmdesát šest procent na necelých třicet miliard dolarů, zisk na akcii dosáhl tří dolarů a třiceti dvou centů, což překonalo odhady analytiků. Segment čipů pro umělou inteligenci ztrojnásobil tržby na šestnáct a sedm desetin miliardy dolarů. Přesto akcie Broadcomu po výsledcích v obchodování mimo hlavní seanci kolísaly, protože výhled tržeb na příští čtvrtletí, zhruba třicet pět miliard dolarů, mírně zaostal za nejoptimističtějšími odhady trhu. Ukazuje to, jak vysoko má trh nastavená očekávání od firem spojených s umělou inteligencí. Mimo technologický sektor také americká taxislužba Uber oznámila, že celosvětově propustí deset procent zaměstnanců, tedy zhruba tři tisíce tři sta lidí, v rámci rozsáhlé restrukturalizace zaměřené na sdílené jízdy, rozvoz a autonomní taxíky.
 
-Cílem je, jak firma říká, skutečná nadvláda nad spektrem v námořním prostředí.
+Evropské akcie měly středu podstatně těžší. Panevropský index Stoxx 600 se propadl na nejnižší úroveň za více než měsíc. Hlavním viníkem byl pokračující celosvětový výprodej státních dluhopisů. Výnos německého desetiletého dluhopisu vystoupal na nejvyšší hodnotu od roku dva tisíce jedenáct, tedy na patnáctileté maximum. Německý index DAX klesl o půl procenta na 25 tisíc 839 bodů. Táhly ho dolů zejména cyklické firmy citlivé na hospodářský vývoj a automobilky. Mluvilo se hlavně o Volkswagenu, jehož vedení podle informací médií navrhne uzavření čtyř továren v Německu, akcie firmy proto klesly o více než dvě procenta. Naopak vzhůru šla Nokia, která se vrací do prestižního indexu Euro Stoxx 50 právě místo Volkswagenu.
 
-Dnes odpoledne pořádá firma na stánku i neformální networking pro návštěvníky veletrhu.
+Za výprodejem dluhopisů stojí obavy z inflace, tažené vyššími cenami ropy kvůli trvajícímu konfliktu mezi Spojenými státy a Íránem, a rostoucí očekávání, že centrální banky budou muset sazby dále zvedat. Podle tržních dat teď investoři přisuzují pravděpodobnost pětatřicet procent tomu, že depozitní sazba Evropské centrální banky vystoupá do března příštího roku na tři procenta, minulý týden to bylo jen pětadvacet procent. Evropská centrální banka zasedá příští týden, desátého září, a zvýšení sazby o čtvrt procentního bodu na dva a půl procenta se považuje za téměř jisté. Šéf německé centrální banky a člen Rady guvernérů ECB Joachim Nagel ve středu naznačil, že k tomuto zvýšení sazeb skutečně dojde, i když další vývoj měnové politiky označil za nejistý. Podobně se vyjádřil i guvernér japonské centrální banky, který nevyloučil rychlejší tempo zvyšování sazeb v Japonsku, což ve středu vystrašilo asijské i evropské investory a přispělo k posílení japonského jenu.
 
-Souběžně od pondělí probíhá v Praze veletrh EMC Europe.
+Pražská burza uzavřela středu v mírné ztrátě, index PX odepsal 0,31 procenta. Tentokrát táhly index dolů právě bankovní tituly, které den předtím byly hlavní oporou růstu. Slabší byly i zbrojařské akcie, tedy firmy CSG a Colt CZ, které v posledních dnech opakovaně padají z rekordních hodnot. Koruna zůstala vůči euru prakticky beze změny, na 24 korunách a sedmnácti haléřích za euro, vůči dolaru mírně oslabila na necelých 20 korun 85 haléřů. Dnes v devět hodin ráno navíc Český statistický úřad zveřejní údaje o vývoji mezd ve druhém čtvrtletí, analytici čekají další reálný růst. Připomeňme také, že český průmysl podle srpnového průzkumu nákupních manažerů zaznamenal nejlepší výsledek za více než čtyři roky, což je dobrá zpráva na pozadí jinak nervózních trhů.
 
-Koná se v Kongresovém centru na Pankráci až do pátku.
+Na komoditních trzích cena ropy Brent mírně klesla, pohybuje se kolem 95 dolarů za barel. Americký prezident Trump totiž zlehčil obavy z dlouhotrvajícího konfliktu s Íránem a uvedl, že případné další údery by podle něj netrvaly dlouho. To trochu uklidnilo trh s ropou i výnosy dluhopisů. Cena zlata se stabilizovala kolem 4 tisíc 400 dolarů za unci poté, co minulý týden zaznamenala nejhorší týden od začátku léta.
 
-Rohde a Schwarz tam představuje testovací techniku pro elektromagnetickou kompatibilitu. Od rušení po dvaačtyřicet gigahertzů až po testy odolnosti.
+Pohled do Asie dnes ráno ukazuje smíšený, ale spíše pozitivní obrázek. Asijské akcie z velké části kopírují středeční růst na Wall Street. Jihokorejský index Kospi přidává přes půl procenta, japonský Topix roste zhruba o stejně, zatímco samotný index Nikkei mírně, o čtvrt procenta, klesá. Investoři teď upírají pozornost hlavně k páteční zprávě o zaměstnanosti v Spojených státech, která napoví, jak rychle bude Fed dále snižovat, nebo naopak zvyšovat úrokové sazby.
 
-Firemní řečníci Patrick Mayer a Vignesh Rajamani mají na akci i odborné přednášky a workshopy.
+Konflikt mezi Spojenými státy a Íránem, který trvá od konce února, tak zůstává i nadále hlavním rizikem pro trhy. Kombinace dražší ropy, rostoucích výnosů dluhopisů a očekávaných dalších zvýšení úrokových sazeb centrálními bankami drží investory ve střehu. Sledovat budeme i zasedání Evropské centrální banky příští týden a zářijové rozhodnutí americké centrální banky Fed, kde trh aktuálně dává vysokou pravděpodobnost dalšímu zvýšení sazeb.
 
-V pondělí Mayer přednášel o analýze takzvaného TEMPEST přijímače. Ve čtvrtek a v pátek pak firma povede dva workshopy o elektromagnetické kompatibilitě výkonové elektroniky.
-
-Teď zpět za oceán. V americkém městě Frederick ve státě Maryland firma minulý týden slavnostně otevřela novou továrnu.
-
-Investice činí čtyřicet milionů dolarů.
-
-Hala má osmdesát sedm tisíc čtverečních stop.
-
-Otevření se zúčastnil i šéf amerického Federálního úřadu pro letectví Bryan Bedford.
-
-Závod vyrábí digitální hlasové přepínače CERTIUM pro řízení letového provozu.
-
-Jde o součást programu FAA za bezmála pět miliard dolarů, přesně čtyři celé devět miliardy dolarů, na modernizaci letecké komunikace v celých Spojených státech.
-
-Starý analogový systém nahrazují novým, po síti internetového protokolu.
-
-Firma zároveň oznámila instalaci sto čtyřicátého systému. Na letišti Rapid City v Jižní Dakotě.
-
-Tím uzavřela první vlnu celonárodního nasazení, a to dřív, než plánovala.
-
-První systém pod touto zakázkou naběhl loni v září na letišti poblíž Pittsburghu.
-
-Nová továrna teď zaměstnává zhruba sto lidí a má jich do budoucna přibýt přes tři sta padesát.
-
-Americký ministr dopravy Sean Duffy řekl, že jde o důkaz, že letecký systém bude, cituji, vyrobený v Americe.
-
-Podle FAA je v rámci celého programu už vyměněno šestašedesát procent starých měděných vedení za optiku, pětigéčko nebo nízkoorbitální spojení.
-
-Přestavěno je přes tři sta osmdesát rádiových stanovišť a nainstalováno sto sedmdesát šest hlasových přepínačů.
-
-Celý systém má být hotový do konce roku dva tisíce dvacet osm.
-
-Osmého září pak koncern představí v Kolíně nad Rýnem na veletrhu Digital X novou tvář dceřiné firmy.
-
-Půjde o první veřejné vystoupení Rohde a Schwarz Networks and Cybersecurity jako jednotné společnosti.
-
-Vznikla letos prvního července sloučením LANCOMu a kybernetické bezpečnosti Rohde a Schwarz.
-
-Na pódiu vystoupí spolujednatel Robert Mallinson společně se zástupcem Deutsche Telekomu.
-
-Řeč bude o bezpečných sítích, spravovaných z Německa.
-
-V polovině září, přesně od patnáctého do sedmnáctého, pak firma vyrazí na akci EWLive do estonského Tartu.
-
-Půjde o polní demonstrace elektronického boje a obrany proti dronům v ostrém provozu.
-
-Teď Česko a Vimperk.
-
-Vimperský závod je první výrobní závod Rohde a Schwarz mimo Německo a letos slaví pětadvacet let.
-
-Aktuálně tam pokračuje výstavba nové čtyřpodlažní haly s označením M nula.
-
-Stavba začala loni na podzim a hotová má být do konce letošního roku.
-
-Investice je tři sta dvacet milionů korun.
-
-Zastavěná plocha je dva tisíce sto padesát metrů čtverečních, užitná plocha zhruba osm tisíc.
-
-Nová hala přinese prostor pro výrobu měřicích přístrojů i nové inženýrské oddělení.
-
-Vimperk dnes zaměstnává devět set osmdesát lidí, loni jich bylo o šedesát méně.
-
-Vedení chce do roku dva tisíce třicet dosáhnout tisíce dvou set zaměstnanců.
-
-Pro srovnání, na začátku, po převzetí bývalého závodu Tesla Hloubětín, tam pracovalo jen sto třicet lidí.
-
-Od letošního července navíc odbory vyjednaly zvýšení mezd o čtyři procenta.
-
-Souběžně firma staví na střechách fotovoltaiku s tisíci šesti sty padesáti osmi panely.
-
-Má pokrýt zhruba desetinu roční spotřeby energie závodu.
-
-Připravuje se také kaskáda tepelných čerpadel s více než stovkou hlubinných vrtů, aby závod postupně omezil závislost na zemním plynu.
-
-Shrnutí za Rohde a Schwarz. Koncern dnes stojí na třech nohou. Obraně a spektru, kritické infrastruktuře jako jsou letiště, a sítích s kybernetickou bezpečností.
-
-V Americe roste díky letecké zakázce za miliardy dolarů. V Německu slučuje síťové byznysy pod jednu značku. A ve Vimperku pokračuje čtvrtstoletá investice do českého regionu.
-
-Teď akciové trhy.
-
-Nejdřív hlavní téma. Prudce rostou ceny ropy a výnosy dluhopisů.
-
-Spojené státy v úterý znovu udeřily na íránské cíle.
-
-Výbuchy hlásily zprávy z ostrova Kešm a z přístavu Bandar Abbás u Hormuzského průlivu.
-
-Írán slíbil tvrdou odvetu. Prezident Trump varoval, že USA odpoví ještě silněji.
-
-Připomeňme, konflikt mezi Spojenými státy, Izraelem a Íránem trvá už od konce února a za tu dobu si vyžádal tisíce životů.
-
-Přes Hormuz běžně proplouvá pětina světových dodávek ropy a zkapalněného plynu, a doprava je tam kvůli válce dál omezená.
-
-Cena ropy Brent proto v úterý vyskočila o víc než čtyři procenta a dnes ráno se drží kolem pětadevadesáti dolarů za barel. To je pětitýdenní maximum.
-
-Americká ropa WTI se obchoduje kolem devadesáti dolarů.
-
-Vyšší ropa táhne nahoru i výnosy dluhopisů. Výnos amerického desetiletého dluhopisu se dostal až ke čtyřem celým osmdesáti jedna procenta. To je nejvýš za tři roky.
-
-To všechno v úterý srazilo akcie po celém světě.
-
-Wall Street uzavřela v mínusu. Dow Jones klesl o nula celá sedmdesát devět procenta na padesát dva tisíce sedm set šedesát šest bodů.
-
-Širší index S a P pět set ztratil nula celá sedmdesát jedna procenta a skončil na sedmi tisících šesti stech třiceti jedna bodech. To je čtyřtýdenní minimum.
-
-Technologický Nasdaq odepsal jedno celé nula tři procenta na dvacet šest tisíc devadesát devět bodů.
-
-Nejvíc tlačily dolů velké technologické firmy jako Nvidia a Amazon.
-
-Index menších firem Russell dva tisíce ztratil jedna celá dva procenta.
-
-Zlato navzdory napětí ve světě zlevnilo, kleslo pod čtyři tisíce čtyři sta dolarů za unci. Táhne ho dolů silnější dolar a vyšší reálné výnosy dluhopisů.
-
-Americký Úřad práce dnes zveřejnil data JOLTS. Počet volných pracovních míst v červenci byl nižší, než se čekalo.
-
-Odpoledne má vyjít i průmyslový index ISM, který ukáže, jak moc firmám rostou vstupní náklady.
-
-Podle analytiků teď trh dává zvýšenou pravděpodobnost, přes šedesát procent, že Fed v září znovu zvedne sazby.
-
-Podobná vlna zpřísňování se rýsuje po celém světě. Trh počítá i se zvýšením sazeb centrální banky v Austrálii koncem září a Japonska osmnáctého září.
-
-Asijské trhy dnes ráno na to reagovaly citelným poklesem. Japonský Nikkei odepsal dvě celá šest procenta, jihokorejský KOSPI zhruba tři procenta.
-
-Širší asijský index bez Japonska klesl o jedna celá pět procenta.
-
-Americké futures ukazují na další opatrný start. Nasdaq kolem jednoho procenta dolů, S a P pět set půl procenta dolů.
-
-V Evropě frankfurtský DAX v úterý klesl o jedna celá jedna procenta na dvacet pět tisíc devět set sedmdesát bodů.
-
-Poprvé za týden se tak dostal pod hranici dvaceti šesti tisíc bodů.
-
-Ještě minulý pátek přitom index zaznamenal rekord, dvacet šest tisíc šest set osmnáct bodů.
-
-Nejvíc klesaly zbrojařské tituly. Firmy RENK, TKMS a Hensoldt. Kvůli nim menší index MDAX ztratil ještě víc, jedna celá šedesát osm procenta.
-
-Analytik Thomas Altmann připomněl, že září bývá pro DAX statisticky nejslabší měsíc v roce.
-
-Pražská burza si naopak v úterý vedla lépe než okolní trhy.
-
-Index PX zakončil den v mírném plusu, nula celá nula šest procenta, na dvou tisících sedmi stech devadesáti osmi bodech.
-
-Většinu dne se přitom pohyboval v červených číslech kvůli špatné náladě ze zahraničí.
-
-Do plusu ho na konci dne dostaly bankovní tituly.
-
-Akcie Erste přidaly nula celá padesát jedna procenta, Komerční banka jedna celá třicet jedna procenta.
-
-Nejvíc rostla Moneta Money Bank, o dvě celá čtyřicet šest procenta, těsně pod dvě stě korun.
-
-Naopak klesaly zbrojovky. Czechoslovak Group ztratila čtyři celé sedmdesát čtyři procenta, akcie Colt CZ dvě celá šedesát tři procenta.
-
-ČEZ odepsal nula celá padesát osm procenta a pojišťovna VIG nula celá devadesát dva procenta.
-
-Koruna v úterý mírně oslabila. K euru na dvacet čtyři koruny devatenáct haléřů, k dolaru na dvacet korun osmdesát šest haléřů.
-
-Dobrou zprávou pro českou ekonomiku je čerstvý srpnový průmyslový index PMI. Vyšplhal se na padesát čtyři celá jedna bodu, což je nejvíc za víc než čtyři roky.
-
-V červenci byl přitom na padesát dva celá dvě.
-
-Česká národní banka má teď základní sazbu tři celá sedmdesát pět procenta. Její příští zasedání je sedmnáctého září.
-
-Na evropské úrovni včera Eurostat potvrdil, že inflace v eurozóně v srpnu zrychlila na tři celá tři procenta, z dřívějších dvou celých devíti.
-
-Táhnou ji hlavně vyšší ceny energií, ty meziročně vzrostly o čtrnáct celá tři procenta kvůli válce na Blízkém východě.
-
-Takzvaná jádrová inflace bez energií a potravin naopak mírně klesla na dvě celá čtyři procenta.
-
-Ekonom Bert Colijn z ING řekl, že jádrová inflace zůstává překvapivě mírná i šest měsíců po začátku konfliktu. Podle něj se zatím vyšší náklady na energie nepřelévají výrazně do cen ostatního zboží.
-
-Zároveň ale varoval, že v dalších měsících mohou inflační tlaky zesílit. Kvůli suchu v dodavatelských řetězcích a rostoucím mzdám.
-
-Evropská centrální banka má zasedat desátého září a téměř jistě zvedne sazby o čtvrt bodu, na dvě celá pět procenta.
-
-Člen bankovní rady Gediminas Šimkus dokonce řekl, že zářijové zvýšení nebude stačit a že budou muset následovat další.
-
-To je obraz trhů na začátku září.
-
-Hlavním tématem zůstává eskalace mezi USA a Íránem, drahá ropa a rostoucí výnosy dluhopisů.
-
-Praha díky bankám a silnému průmyslu drží lépe než Frankfurt nebo Wall Street.
-
-Riziko pro zbytek týdne je ale společné pro všechny trhy. Ropa, sazby centrálních bank a další vývoj v Hormuzském průlivu.
-
-Závěr.
-
-Dnes je středa druhého září dva tisíce dvacet šest.
-
-U Rohde a Schwarz sledujte tři věci.
-
-Poprvé na veletrhu SMM v Hamburku a nová továrna ve městě Frederick pro americkou leteckou zakázku.
-
-Debut jednotné firmy pro sítě a kybernetickou bezpečnost osmého září v Kolíně.
-
-A pokračující investice do nové haly ve Vimperku, který letos slaví pětadvacet let.
-
-Na trzích sledujte hlavně cenu ropy, výnos amerického desetiletého dluhopisu a zasedání Evropské centrální banky desátého září.
-
-Děkuji za pozornost.
-
-Příští briefing zase ráno na stejném místě.
-
-Hezký den.
+To je pro dnešek vše. Děkujeme, že jste si udělali čas na tento briefing, a přejeme vám hezký zbytek dne. Nashledanou zítra.
