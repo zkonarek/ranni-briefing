@@ -1,0 +1,17 @@
+---
+description: Každý budoucí ranní briefing končí D-Wave Quantum a IonQ místo asijských trhů
+alwaysApply: true
+---
+
+# Kvantové akcie místo asijských trhů
+
+Při každém novém vydání smaž přehled asijských trhů a na jeho místo, jako poslední akciovou pasáž před rozloučením, dej aktuální D-Wave Quantum a IonQ. Stejný text musí být v `briefing-latest.mp3`.
+
+- Starší skript, který končí Nikkei, Kospi nebo jinou Asií, nekopíruj. Tu pasáž vyhoď, i když v ní jsou čerstvá čísla.
+- Kvantové firmy piš jen jednou, na závěr. Nevracej je doprostřed mezi Wall Street a ropu.
+- Úvod závěrečné pasáže je věta „Na závěr dvě kvantové firmy.“ Pak D-Wave Quantum, pak IonQ.
+- Aktualizuj pohyb kurzu od minulého briefingu a jen nové zprávy s dopadem na kurz: výsledky, emise, akvizice, zakázky, žaloby, výrobu a financování. Staré zprávy bez nového dopadu vynech.
+- Obvinění z žalob uváděj jako neprokázaná. Čísla vypisuj slovy.
+- Mluvený briefing nesmí přesáhnout dvacet minut. Když by byl delší, zkrať ostatní zprávy. Tuto pasáž zachovej.
+- Po úpravě skriptu spusť `python build_audio.py`. Nahrávka nevznikne, když chybí závěrečná pasáž, když v textu jsou asijské indexy, nebo když by trvala déle než dvacet minut.
+- Datum v `index.html` nech shodné s vydáním, které nahrávka čte.
